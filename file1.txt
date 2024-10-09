@@ -1,1 +1,2 @@
-This is the first line of the file 'file1.txt' 
+----------------------------------------------
+I have deleted the first line to check it in the Github
