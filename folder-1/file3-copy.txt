@@ -3,3 +3,6 @@ File:- file3.txt
 Author:- DSA41
 Purpose:- To code Python script
 ===============================
+Author:- Second Developer working from Japan - Debasis
+Purpose:- To code Python Product Catalog function
+========================================================
